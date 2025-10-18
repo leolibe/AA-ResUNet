@@ -1,7 +1,7 @@
 absl-py==0.11.0
 alabaster==0.7.12
 appdirs==1.4.4
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596826740294/work
+argon2-cffi==20.1.0
 astroid==2.4.2
 astunparse==1.6.3
 async-generator==1.10
@@ -19,7 +19,7 @@ cffi==1.14.4
 chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+colorama==0.4.4
 cryptography==3.3.1
 cycler==0.10.0
 dataclasses==0.8
@@ -28,7 +28,6 @@ defusedxml==0.6.0
 diff-match-patch==20200713
 docutils==0.16
 efficientnet==1.1.1
-efficientnet-v2-keras @ git+https://github.com/sebastian-sz/efficientnet-v2-keras@94a2632c930318a4c6fd0fa03df0d5b1f5458e0f
 entrypoints==0.3
 flake8==3.8.4
 focal-loss==0.0.7
@@ -46,19 +45,19 @@ imagesize==1.2.0
 importlib-metadata==3.4.0
 intervaltree==3.1.0
 ipykernel==5.4.3
-ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython==7.21.0
 ipython-genutils==0.2.0
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
+ipywidgets==7.6.5
 isort==5.7.0
 jedi==0.17.2
 Jinja2==2.11.2
 joblib==1.0.0
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.11
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+jupyter-console==6.4.0
 jupyter-core==4.7.0
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-pygments==0.1.2
 Keras==2.4.3
 Keras-Applications==1.0.8
 keras-efficientnet-v2==1.2.2
@@ -74,12 +73,12 @@ matplotlib==3.3.3
 mccabe==0.6.1
 mistune==0.8.4
 mypy-extensions==0.4.3
-nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
-nbconvert @ file:///C:/ci/nbconvert_1601896775581/work
+nbclient==0.5.4
+nbconvert==6.0.7
 nbformat==5.1.2
 nest-asyncio==1.4.3
 networkx==2.5
-notebook @ file:///C:/ci/notebook_1601498601160/work
+notebook==6.3.1
 numpy==1.18.5
 numpydoc==1.1.0
 oauthlib==3.1.0
@@ -105,7 +104,7 @@ ptyprocess==0.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.6.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 pydocstyle==5.1.1
 pyflakes==2.2.0
 Pygments==2.7.4
@@ -117,7 +116,7 @@ pyparsing==2.4.7
 PyQt5==5.12.3
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.12.1
-pyrsistent @ file:///C:/ci/pyrsistent_1600141799440/work
+pyrsistent==0.17.3
 python-dateutil==2.8.1
 python-git==2018.2.1
 python-jsonrpc-server==0.4.0
@@ -142,7 +141,6 @@ Rtree==0.9.7
 scikit-image==0.17.2
 scikit-learn==0.24.1
 scipy==1.5.4
-segmentation-models @ git+https://github.com/qubvel/segmentation_models@94f624b7029deb463c859efbd92fa26f512b52b8
 Send2Trash==1.5.0
 sip==4.19.24
 six==1.15.0
@@ -179,7 +177,7 @@ typing-extensions==3.7.4.3
 ujson==4.0.2
 urllib3==1.26.2
 watchdog==1.0.2
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
